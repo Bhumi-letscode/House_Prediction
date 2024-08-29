@@ -1,6 +1,3 @@
-Here’s a modified version of your README to make it unique and avoid any resemblance to the original text:
-
----
 
 # Delhi Housing Price Prediction Web App
 
@@ -43,7 +40,3 @@ This will start the server, and you can interact with the application through yo
 
 ## Dataset Source
 The dataset used for this project is available on Kaggle. You can access it here: [Delhi Housing Price Dataset](https://www.kaggle.com/datasets/goelyash/housing-price-dataset-of-delhiindia).
-
----
-
-This version of the README is concise and still conveys all the essential information without looking like a copy of the original.
